@@ -176,13 +176,3 @@ print()
 
        
 
-# print (p)
-# print(a)
-# print(b)
-# print(hasil)
-# print(gaji >= 5000000)
-# print((gaji >= 5000000) or (pekerjaan  in pekerjaan1) )
-# print(kelas_a)
-# print(p2)
-# print(hasil_3)
-# print(p3)
